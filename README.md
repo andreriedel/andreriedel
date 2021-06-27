@@ -1,6 +1,6 @@
-<img src="foto.png" alt="Andre Riedel" width="200px" align="right"/>
+<img src="foto.gif" alt="Andre Riedel" width="200px" align="right"/>
 
-# André Zambroni Riedel
+# André Riedel
             
 - 👨🏻‍💻 Desenvolvedor Júnior.
 - 💻 Técnico de Informática.
