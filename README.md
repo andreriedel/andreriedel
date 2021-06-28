@@ -7,15 +7,14 @@
 -   🤓 Estudante de Engenharia de Computação.
 -   🌱 Atualmente estou aprendendo C e LaTex.
 -   😃 Estou disposto a colaborar em projetos.
--   🥅 Metas para 2021: Melhorara meu newtworking.
--   ⚡ Fato curioso: Adoro jogar basquete 🏀 e tocar bateria 🥁.
+-   🥅 Metas para 2021: Melhorar meu newtworking.
+-   ⚡ Curiosidades: Adoro jogar basquete e tocar bateria.
 
-<br />
 <br />
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=andreriedel&count_private=true&hide=prs,issues&show_icons=true&theme=dark&locale=pt-br&custom_title=Estatísticas%20do%20Github" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=andreriedel&count_private=true&hide=stars,issues&show_icons=true&theme=dark&locale=pt-br&custom_title=Estatísticas%20do%20Github" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreriedel&layout=compact&theme=dark&locale=pt-br"
@@ -25,7 +24,7 @@
 
 ---
 
-## Linguagens e ferramentas
+## Linguagens e ferramentas 🛠
 
 <p align="center">
     <img alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
@@ -34,21 +33,17 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;
     <img alt="LaTex" src="https://img.shields.io/badge/LaTex-47A141?style=for-the-badge&logo=LaTex&logoColor=white" />
 </p>
-   
-<br />
 
-## Graduação
+## Graduação 👨🏼‍🎓
 
 -   Atualmente estou cursando Engenharia de Computação pela Universidade Tecnológica Federal do Paraná (campus Toledo) e estou no segundo período.
 
-<br />
-
-## Meus contatos e redes sociais
+## Meus contatos e redes sociais 📱
 
 <p align="center">
     <a href="mailto:andreriedelz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/andr%C3%A9-zambroni-riedel-408766140/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/andreriedel_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/andreriedel_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <p>
 
 <br />
@@ -57,6 +52,8 @@
   <summary>😃 Mais sobre mim</summary>
   <ul>
     <li>Tenho 19 anos.</li>
+    <li>Morador de Toledo, PR</li>
+    <li>Gosto de desenhar</li>
   <ul>
 </details>
 
