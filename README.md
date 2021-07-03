@@ -76,37 +76,35 @@
 
 <details>
   <summary>😃 Mais sobre mim</summary>
+
   <ul>
     <li>🏀 Adoro jogar basquete</li>
     <li>🥁 Toco bateria</li>
     <li>🧑🏽 Tenho 19 anos</li>
     <li>&nbsp;📍 Moro em Toledo, PR</li>
     <li>✍🏼 Gosto de desenhar</li>
-  <ul>
+  </ul>
+
+  <h2>📊 Mais estatísticas</h2>
+
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=andreriedel&theme=dark&custom_title=Estatísticas%20do%20Wakatime" alt="andreriedel's wakatime stats"/>
+    </a>
+    <br />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreriedel&theme=dark" alt="andreriedel's streak"/>
+  </p>
 </details>
 
 ---
 
 <!-- ## Confira meus repositórios: -->
 
-## 📊 Mais estatísticas sobre mim
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=andreriedel&theme=dark&custom_title=Estatísticas%20do%20Wakatime" alt="andreriedel's wakatime stats"/>
-  </a>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreriedel&theme=dark" alt="andreriedel's streak"/>
-</p>
-
 <br />
 
 <p align="center">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/andreriedel?label=Seguidores">
-    <br /><br />
-    Total de visitas no perfil:
-    <br /><br />
-    <img src="https://profile-counter.glitch.me/{andreriedel}/count.svg" />
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/andreriedel?label=Seguidores">&nbsp;&nbsp;
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=andreriedel&style=flat&color=yellow">
 </p>
 
 ---
