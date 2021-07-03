@@ -80,7 +80,7 @@
     <li>🏀 Adoro jogar basquete</li>
     <li>🥁 Toco bateria</li>
     <li>🧑🏽 Tenho 19 anos</li>
-    <li>&nbsp;📍 Moro Toledo, PR</li>
+    <li>&nbsp;📍 Moro em Toledo, PR</li>
     <li>✍🏼 Gosto de desenhar</li>
   <ul>
 </details>
@@ -93,19 +93,20 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=andreriedel&theme=dark&custom_title=Estatísticas%20do%20Wakatime" alt="andreriedel's wakatime stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=andreriedel&theme=dark&custom_title=Estatísticas%20do%20Wakatime" alt="andreriedel's wakatime stats"/>
   </a>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andreriedel&theme=dark" alt="andreriedel's streak"/>
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreriedel&theme=dark" alt="andreriedel's streak"/>
 </p>
 
 <br />
 
 <p align="center">
-    <img align="center" alt="GitHub followers" src="https://img.shields.io/github/followers/andreriedel?label=Seguidores">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/andreriedel?label=Seguidores">
     <br /><br />
     Total de visitas no perfil:
-    <br />
-    <img align="center"src="https://profile-counter.glitch.me/{andreriedel}/count.svg" />
+    <br /><br />
+    <img src="https://profile-counter.glitch.me/{andreriedel}/count.svg" />
 </p>
 
 ---
