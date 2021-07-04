@@ -26,7 +26,7 @@
 
 ---
 
-## 📟 Linguagens e database
+## 🖥 Linguagens e database
 
 <p align="center">
     <img alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
@@ -64,7 +64,7 @@
 
 -   Atualmente estou cursando Engenharia de Computação pela Universidade Tecnológica Federal do Paraná (campus Toledo) e estou no segundo período.
 
-## 📱 Meus contatos e redes sociais
+## 📬 Meus contatos e redes sociais
 
 <p align="center">
     <a href="mailto:andreriedelz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
@@ -106,9 +106,5 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/andreriedel?label=Seguidores">&nbsp;&nbsp;
     <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=andreriedel&style=flat&color=yellow">
 </p>
-
----
-
-_Esta página ainda está em desenvolvimento_
 
 _❗ As linguagens e ferramentas mostradas não expressam o grau de domínio que tenho sobre elas._
