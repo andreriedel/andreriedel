@@ -88,17 +88,11 @@
   <h2>📊 Mais estatísticas</h2>
 
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=andreriedel&theme=dark&custom_title=Estatísticas%20do%20Wakatime" alt="andreriedel's wakatime stats"/>
-    </a>
-    <br />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreriedel&theme=dark" alt="andreriedel's streak"/>
   </p>
 </details>
 
 ---
-
-<!-- ## Confira meus repositórios: -->
 
 <br />
 
