@@ -2,15 +2,15 @@
 
 # André Riedel
 
-- 👨🏻‍💻 Desenvolvedor Júnior.
-- 💻 Técnico de Informática.
-- 🤓 Estudante de Engenharia de Computação.
-- 🌱 Atualmente estou aprendendo C, C++.
-- 😃 Estou disposto a colaborar em projetos.
-- 🥅 Metas para 2022:
+- 👨🏻‍💻 Desenvolvedor júnior
+- 💻 Técnico de informática
+- 🤓 Estudante de Engenharia de Computação
+- 🌱 Atualmente estou aprendendo C, C++ e JavaScript
+- 😃 Estou disposto a colaborar em projetos
+- 🥅 Metas para 2023:
     - Melhorar meu newtworking
     - Contribuir em mais projetos
-    - Aumentar meu portifólio.
+    - Aumentar meu portifólio
 
 <br>
 
@@ -55,7 +55,7 @@
 
 ## 👨🏼‍🎓 Graduação
 
-Atualmente estou cursando Engenharia de Computação pela Universidade Tecnológica Federal do Paraná (campus Toledo) e estou no terceiro período.
+Atualmente estou cursando Engenharia de Computação pela Universidade Tecnológica Federal do Paraná (campus Toledo) e estou no quarto período.
 
 ## 📬 Meus contatos e redes sociais
 
@@ -63,7 +63,7 @@ Atualmente estou cursando Engenharia de Computação pela Universidade Tecnológ
   <a href="mailto:andreriedelz@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/andr%C3%A9-zambroni-riedel-408766140/">
+  <a href="https://www.linkedin.com/in/andre-riedel/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/andreriedel_/">
@@ -81,7 +81,6 @@ Atualmente estou cursando Engenharia de Computação pela Universidade Tecnológ
     <li>🥁 Toco bateria</li>
     <li>🧑🏽 Tenho 20 anos</li>
     <li>&nbsp;📍 Moro em Toledo, PR</li>
-    <li>✍🏼 Gosto de desenhar</li>
   </ul>
 
   <h2>📊 Mais estatísticas</h2>
