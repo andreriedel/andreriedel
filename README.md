@@ -2,10 +2,10 @@
 
 # André Riedel
 
-- 👨🏻‍💻 Desenvolvedor júnior
+- 👨🏻‍💻 Desenvolvedor Jr.
 - 💻 Técnico de informática
 - 🤓 Estudante de Engenharia de Computação
-- 🌱 Atualmente estou aprendendo C, C++ e JavaScript
+- 🌱 Atualmente estou aprendendo JavaScript
 - 😃 Estou disposto a colaborar em projetos
 - 🥅 Metas para 2023:
     - Melhorar meu newtworking
@@ -15,10 +15,6 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=andreriedel&count_private=true&hide=stars,issues&show_icons=true&theme=dark&locale=pt-br&custom_title=Estatísticas%20do%20Github">
-  </a>
-  <br><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreriedel&layout=compact&theme=dark&locale=pt-br">
   </a>
@@ -35,7 +31,8 @@
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">&nbsp;&nbsp;
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;&nbsp;
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">&nbsp;&nbsp;
-  <img alt="LaTex" src="https://img.shields.io/badge/LaTex-47A141?style=for-the-badge&logo=LaTex&logoColor=white">
+  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">
+  <img alt="Pos" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
 ## ⚡ Frameworks e VCS
@@ -79,18 +76,14 @@ Atualmente estou cursando Engenharia de Computação pela Universidade Tecnológ
   <ul>
     <li>🏀 Adoro jogar basquete</li>
     <li>🥁 Toco bateria</li>
-    <li>🧑🏽 Tenho 20 anos</li>
+    <li>🧑🏽 Tenho 21 anos</li>
     <li>&nbsp;📍 Moro em Toledo, PR</li>
   </ul>
-
-  <h2>📊 Mais estatísticas</h2>
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreriedel&theme=dark" alt="andreriedel's streak">
-  </p>
 </details>
 
----
+<br>
+
+_❗ As linguagens e ferramentas mostradas não expressam o grau de domínio que tenho sobre elas._
 
 <br>
 
@@ -98,5 +91,3 @@ Atualmente estou cursando Engenharia de Computação pela Universidade Tecnológ
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/andreriedel?label=Seguidores">&nbsp;&nbsp;
     <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=andreriedel&style=flat&color=yellow">
 </p>
-
-_❗ As linguagens e ferramentas mostradas não expressam o grau de domínio que tenho sobre elas._
